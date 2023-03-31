@@ -6,18 +6,20 @@ Being able to build an API for a social network web application to allow users t
 ## Table of Contents 
 
 * [Installation](#installation)
-* [Usage](#usage)                     
+* [Usage](#usage)      
+* [Credits](#credits)               
 * [License](#license)
 
-#
 ## Installation
 Clone repo
 Install `mongoose`
 Run `npm start` to run server
 
-#
 ## Usage
 walkthrough video here 
+
+## Credit
+Tyler Vu, AskBCS Learning Asssistants, Calendly Tutors
 
 ## License
 
