@@ -16,7 +16,7 @@ Install `mongoose`
 Run `npm start` to run server
 
 ## Usage
-walkthrough video here 
+Walkthrough video: https://youtu.be/DJIvMUa1ui4 
 
 ## Credit
 Tyler Vu, AskBCS Learning Asssistants, Calendly Tutors
