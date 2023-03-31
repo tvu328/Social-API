@@ -1,10 +1,7 @@
 # Social Network API
 
-
-User Story:
-AS A social media startup
-The startup wants an API for a social network that uses a NoSQL database
-so that the website can handle large amounts of unstructured data.
+## Description
+Being able to build an API for a social network web application to allow users to share thoughts, interact with other users and their thought while also being able to curate a list of friends. 
 
 ## Table of Contents 
 
@@ -14,12 +11,11 @@ so that the website can handle large amounts of unstructured data.
 
 #
 ## Installation
-
+Install `mongoose`
 
 #
 ## Usage
-#### Follow the Video link, it should take you to a start up video that looks like this:  <img src="./assests/images/182022-07-07 182141.png" alt="snapshot of insomnia video">
-
+walkthrough video here 
 
 ## License
 
