@@ -11,7 +11,9 @@ Being able to build an API for a social network web application to allow users t
 
 #
 ## Installation
+Clone repo
 Install `mongoose`
+Run `npm start` to run server
 
 #
 ## Usage
